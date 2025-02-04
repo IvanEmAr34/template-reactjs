@@ -2,7 +2,7 @@
   "name": "template-reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ivanemar34.github.io/template-reactjs/build",
+  "homepage": "https://ivanemar34.github.io/template-reactjs/out",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
